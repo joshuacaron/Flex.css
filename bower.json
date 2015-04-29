@@ -1,0 +1,23 @@
+{
+  "name": "css-flex",
+  "version": "0.0.1",
+  "homepage": "https://github.com/joshuacaron/Flex.css",
+  "authors": [
+    "Joshua Caron <joshua@joshuacaron.ca>"
+  ],
+  "description": "A convenient library for CSS flexbox layouts, based off of Polymer's layout.html.",
+  "main": "flex.css",
+  "keywords": [
+    "flexbox",
+    "css",
+    "flex",
+    "layout"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
